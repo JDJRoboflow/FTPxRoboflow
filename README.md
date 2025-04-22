@@ -1,4 +1,4 @@
-# FTPxRoboflow
+# RoboflowxFTP
 # 🚀 Roboflow X FTP Integration Overview
 
 ## Project Purpose
